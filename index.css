@@ -1,0 +1,39 @@
+.Machine-1{ 
+    display: flex;
+    padding : 50px;
+    height:100px;
+}
+
+.Machine-sub img{
+    height:300px;
+    padding-top: 50px;
+}
+
+.About-Machine{
+    display: flex;
+    padding-left:20px;
+    justify-content: space-evenly;
+}
+
+.About-Machine .Muscle-Used{
+    width: 33%;
+}
+
+.About-Machine .How-to-use{
+    width: 33%;
+    padding-left:30px;
+}
+
+.About-Machine .Suitable{
+    width: 33%;
+    padding-left:30px;
+}
+
+.Machine-2{
+    display: flex;
+    padding : 50px;
+    margin-top:300px;
+    height:100px;
+}
+
+
